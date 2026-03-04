@@ -1,4 +1,4 @@
-# SG API Monitor — Prometheus & Grafana Demo
+# SG API Monitor — Prometheus & Grafana 
 
 **Objective:**  
 Monitor real-time air quality data from [data.gov.sg](https://data.gov.sg) using a custom Python exporter, Prometheus, and Grafana.
