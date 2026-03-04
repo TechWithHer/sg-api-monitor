@@ -72,6 +72,10 @@ docker compose up --build
 
 ## Screenshots
 
+![Alt text](snapshots/Docker_images.png)
+![Alt text](snapshots/prom_view.png)
+![Alt text](snapshots/Grafana1.png)
+![Alt text](snapshots/Grafana2.pmg.png)
 
 
 ---
