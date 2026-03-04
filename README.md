@@ -70,7 +70,6 @@ docker compose up --build
 ---
 
 ## Screenshots
-/Users/apple/Desktop/TechWithHer/sg-api-monitor/snapshots/Docker_images.png 
 
 
 
@@ -89,6 +88,4 @@ This demo mirrors real-world monitoring pipelines used in DevOps and SRE:
 
 ## License
 
-MIT License
-
-````
+````MIT License
