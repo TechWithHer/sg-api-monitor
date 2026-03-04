@@ -18,6 +18,7 @@ Monitor real-time air quality data from [data.gov.sg](https://data.gov.sg) using
 [Grafana] → Visualizes API latency, availability & PM2.5 readings
 
 ````
+snapshots/flowchart.png 
 
 **Components:**
 
