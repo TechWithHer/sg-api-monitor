@@ -8,7 +8,7 @@ This project demonstrates how DevOps and SRE teams monitor **external dependenci
 
 ---
 
-# 🚀 Why This Project Exists
+# Why This Project Exists
 
 Modern systems rely heavily on **third-party APIs**:
 
@@ -176,6 +176,7 @@ pm25_reading
 
 ### Prometheus Metrics
 
+![Prometheus](snapshots/snap.png)
 ![Prometheus](snapshots/prom_view.png)
 
 ### Grafana Dashboard
