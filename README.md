@@ -1,4 +1,4 @@
-# 🌏 SG API Monitor — Observability with Prometheus & Grafana
+# SG API Monitor — Observability with Prometheus & Grafana
 
 A lightweight **observability system** that monitors a real-world public API using a **custom Prometheus exporter**, **Prometheus**, and **Grafana**.
 
